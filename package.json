@@ -1,6 +1,6 @@
 {
-  "name": "ts-boilerplate",
-  "version": "1.0.0",
+  "name": "base-typescript-project",
+  "version": "2.0.0",
   "author": "Rafael Dias Moreira <rafael.dias_moreira@seven.one>",
   "license": "MIT",
   "scripts": {
